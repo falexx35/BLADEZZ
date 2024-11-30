@@ -1,2 +1,1 @@
-README ... 
-All rights to MIT and krypcide
+   Created with turbowarp packager. All rights to MIT and krypcide
